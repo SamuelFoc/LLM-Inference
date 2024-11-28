@@ -1,6 +1,3 @@
-Here’s a sample `README.md` for your Hugging Face API:
-
-````markdown
 # Hugging Face LLM API
 
 This project provides a RESTful API for generating text using Hugging Face's pre-trained language models. The API is built using **FastAPI** and packaged in a Docker container for easy deployment. It supports both CPU and GPU environments and returns responses in JSON format.
@@ -33,7 +30,6 @@ This project provides a RESTful API for generating text using Hugging Face's pre
    git clone https://github.com/your-repo/huggingface-api.git
    cd huggingface-api
    ```
-````
 
 2. **Build the Docker Image**:
 
